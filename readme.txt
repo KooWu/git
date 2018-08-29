@@ -4,3 +4,4 @@ add dev brach
 add a string from master
 add a string from feature
 add a string for merge test
+add a string from github
